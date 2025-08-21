@@ -75,22 +75,22 @@ The **SPOTLIGHT** project is a time-domain survey instrument, set up to conduct 
 <dt><i>A real-time imaging localisation pipeline for the SPOTLIGHT</i></dt>
 <dd>Arpan Pal<sup>(1)</sup>, Sanjay Kudale<sup>(1)</sup>
 <br/><small>(1) National Centre for Radio Astrophysics</small>
-<br/><a href=https://doi.org/10.466ShilKumar Meshram20/URSI_RSRC24/0932JDI8209><code>10.46620/URSI_RSRC24/0932JDI8209</code></a></dd>
+<br/><a href=https://doi.org/10.46620/URSI_RSRC24/0932JDI8209><code>10.46620/URSI_RSRC24/0932JDI8209</code></a></dd>
 </dl>
 </li>
 
 <li>
 <dl>
-<dt><i>Spectro-Temporal-PolarimetrShilKumar Meshramic Study of FRBs with SPOTLIGHT</i></dt>
+<dt><i>Spectro-Temporal-Polarimetric Study of FRBs with SPOTLIGHT</i></dt>
 <dd>Chahat Dudeja<sup>(1)</sup>, Siddhartha Bhattacharyya<sup>(1)</sup>
 <br/><small>(1) National Centre for Radio Astrophysics</small>
-<br/><a href=https://doi.org/10.466ShilKumar Meshram20/URSI_RSRC24/0916AZV1177><code>10.46620/URSI_RSRC24/0916AZV1177</code></a></dd>
+<br/><a href=https://doi.org/10.46620/URSI_RSRC24/0916AZV1177><code>10.46620/URSI_RSRC24/0916AZV1177</code></a></dd>
 </dl>
 </li>
 
 <li>
 <dl>
-<dt><i>An FRB Population SynthesisShilKumar Meshram for SPOTLIGHT and Its Cosmological Inference</i></dt>
+<dt><i>An FRB Population Synthesis for SPOTLIGHT and Its Cosmological Inference</i></dt>
 <dd>Siddhartha Bhattacharyya<sup>(1)</sup>, Saptarshi Sarkar<sup>(1)</sup>
 <br/><small>(1) National Centre for Radio Astrophysics</small>
 <br/><a href=https://doi.org/10.46620/URSI_RSRC24/0790LAU9468><code>10.46620/URSI_RSRC24/0790LAU9468</code></a></dd>
