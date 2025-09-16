@@ -110,4 +110,4 @@ The **SPOTLIGHT** project is a time-domain survey instrument, set up to conduct 
 </div>
 
 [spotlight]: https://spotlight.ncra.tifr.res.in
-[logo]: https://raw.githubusercontent.com/astrogewgaw/logos/refs/heads/main/spotlight/spotlight_latest.png
+[logo]: https://raw.githubusercontent.com/astrogewgaw/logos/refs/heads/main/spotlight/spotlight_latest_light.png
